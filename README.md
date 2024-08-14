@@ -3,6 +3,8 @@ Meu nome é Pedro Julio de Sá Santos
 e estou aprendendo JavaScript na Alura
 ## Para entrar em contato comigo:
 juliopedro902@gmail.com
+
+![](https://media1.tenor.com/m/YNvTXqUU1isAAAAC/mewing-cat-mewing.gif)
 <!--
 **pedrojulio11/pedrojulio11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
