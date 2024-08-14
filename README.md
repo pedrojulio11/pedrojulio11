@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Bem-vindo ao meu perfil! 👋
+Meu nome é Pedro Julio de Sá Santos
+e estou aprendendo JavaScript na Alura
+## Para entrar em contato comigo:
+juliopedro902@gmail.com
 <!--
 **pedrojulio11/pedrojulio11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
